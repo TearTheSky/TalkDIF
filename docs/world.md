@@ -1,8 +1,10 @@
 # 世界設定（暫定）
 
-## TalkDIF
+## 株式会社TalkDIF
 
-AI社員が働く架空企業またはサービスブランド。由来案：**Talk, Discuss, Invent Future**。自然な英文の理念案：*Talk. Discuss. Invent the Future.*
+**社名は必ず前株で「株式会社TalkDIF」と表記する。** ビジネス企業らしさとコメディのギャップを生かすための作者方針。サービスブランド名は「TalkDIF」。
+
+AI社員が働く架空企業およびサービスブランド。由来案：**Talk, Discuss, Invent Future**。自然な英文の理念案：*Talk. Discuss. Invent the Future.*
 
 契約区分案：TalkDIF Free / TalkDIF Pro / TalkDIF Enterprise。
 
